@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlazola/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ZolaCarla)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlazola&show_icons=true&theme=transparent&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlazola&show_icons=true&theme=transparent&count_private=false)
 
 ### Tecnologias que mais utilizo e venho estudado
 
