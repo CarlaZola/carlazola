@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="MAterialUI"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/>
-
+    <img src="https://img.shields.io/badge/TypeORM-3982CE?style=for-the-badge&logo=Typeorm&logoColor=white" alt="typeorm"/>
 </div>
 
 
